@@ -1,2 +1,2 @@
 # Snow-Boarder
-Udemy Racing Game Course Project 2
+Udemy Course Project 2 Racing Game
